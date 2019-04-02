@@ -1,0 +1,23 @@
+# User-specific files
+*.suo
+*.user
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin/
+obj/
+Debug/
+Release/
+ipch/
+
+# Visual Studio cache/options directory
+.vs/
+
+# NuGet packages
+**/packages/*/
+
+# mstest test results
+TestResults/
+
+# Microsoft Office Temporary files
+~?*.pptx
+~$*.docx
